@@ -13,3 +13,4 @@ function About({ bio, links }) {
 }
 
 export default About;
+
